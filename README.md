@@ -13,6 +13,8 @@
 
 2/ Use "/setspawn" at start and rotate you camera to exactly -135°. (You can use f3 to check) (There are other variations depending from where you are going [45, -45, 135, -135], make sure to follow the guide to keep it simple)
 
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/99589691/250656843-50bbdcf7-f830-4521-9ba6-1236434a1ba0.png" alt="map2" width="1000">]
+
 1/ Install Node.js >= 14 from [nodejs.org](https://nodejs.org/)
 2/ Install Python >= 3.9 from [python.org](https://www.python.org/downloads/)
 3/ Open utils folder, open ACCOUNTS and change IGN, email and password to login credentials of the account you want the bot to use (make sure not to delete the quotes, ex: "email": "email@gmail.com").
