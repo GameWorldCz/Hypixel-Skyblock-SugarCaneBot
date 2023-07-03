@@ -1,5 +1,5 @@
 # Skyblock-SugarCaneBot
-*A minecraft bot to automatically mine sugar canes in garden.*
+*A node.js minecraft bot to automatically mine sugar canes in garden.*
 
 ## Features
 * Auto sugar cane mining
