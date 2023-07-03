@@ -1,0 +1,7 @@
+{
+    "DebugLevel": 1,
+    "CoordList":[[coor1, coor2, angle]],
+    "Rows":[rows],
+    "Movement":[["back", "left"]],
+    "Sell": false
+}

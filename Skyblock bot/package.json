@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "mineflayer": "^4.9.0",
+    "mjs": "^1.0.0"
+  }
+}

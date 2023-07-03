@@ -1,0 +1,9 @@
+[
+    {
+        "online": true,
+        "ign": "InGameNickname",
+        "email": "email@gmail.com",
+        "password": "YourPassword1234",
+        "auth": "microsoft"
+    }
+]
