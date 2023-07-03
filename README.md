@@ -26,5 +26,7 @@
 7/ In "utils" folder, open settings and change these settings: in "CoordList" coor1 and coor2 to A and B in the picture (for me at plot2 it was -46 and 46), angle to the angle you set your camera previously, I used -135°;
 in "rows" change rows to the number of rows you have in you plot (i have 31); in "movement" change "back", or "left" depending which way you should be moving first ("back"="S", "left"="A", "right"="D", "forward"="W")
 
+8/ Double click "AutoStart.py" and enjoy! (if a bug or error occurs, you can try to fix it yourself or pull a request)
+
 
 *Note: in settings folder you can change "DebugLevel" to 0, 1, 2 (0=debug, 1=info, 2=errors)*
