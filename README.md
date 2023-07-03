@@ -30,7 +30,7 @@
 * in "rows" change rows to the number of rows you have in you plot (i have 31); 
 * in "movement" change "back", or "left" depending which way you should be moving first ("back"="S", "left"="A", "right"="D", "forward"="W")
 
-9/ Double click "AutoStart.py" and enjoy! (if a bug or error occurs, you can try to fix it yourself or pull a request)
+9/ Double click "AutoStart.py" and enjoy! *(if a bug or error occurs, you can try to fix it yourself or pull a request)*
 
 
 *Note: in settings folder you can change "DebugLevel" to 0, 1, 2 (0=debug, 1=info, 2=errors)*
