@@ -15,7 +15,10 @@
 
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/99589691/250656843-50bbdcf7-f830-4521-9ba6-1236434a1ba0.png" alt="map2" width="1000">]
 
-1/ Install Node.js >= 14 from [nodejs.org](https://nodejs.org/)
-2/ Install Python >= 3.9 from [python.org](https://www.python.org/downloads/)
-3/ Open utils folder, open ACCOUNTS and change IGN, email and password to login credentials of the account you want the bot to use (make sure not to delete the quotes, ex: "email": "email@gmail.com").
-4/ In utils folder, open settings and change these settings: in "CoordList" coor1 and coor2 to A and B in the picture (for me at plot2 it was -46 and 46), angle to the right angle you 
+3/ Install Node.js >= 14 from [nodejs.org](https://nodejs.org/)
+4/ Install Python >= 3.9 from [python.org](https://www.python.org/downloads/)
+5/ Install all files from this repository
+6/ Open "utils" folder, open ACCOUNTS and change IGN, email and password to login credentials of the account you want the bot to use (make sure not to delete the quotes, ex: "email": "email@gmail.com").
+7/ In "utils" folder, open settings and change these settings: in "CoordList" coor1 and coor2 to A and B in the picture (for me at plot2 it was -46 and 46), angle to the angle you set your camera previously, I used -135°
+
+*Note: in settings folder you can change "DebugLevel" to 0, 1, 2 (0=debug, 1=info, 2=errors)*
