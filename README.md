@@ -13,7 +13,7 @@
 
 2/ Use "/setspawn" at start and rotate you camera to exactly -135°. (You can use f3 to check) (There are other variations depending from where you are going [45, -45, 135, -135], but if you follow me you don't have to worry about errors)
 
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/99589691/250656843-50bbdcf7-f830-4521-9ba6-1236434a1ba0.png" alt="map2" width="1000">]
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/99589691/250656843-50bbdcf7-f830-4521-9ba6-1236434a1ba0.png" alt="map2" width="1000">
 
 3/ Install Node.js >= 14 from [nodejs.org](https://nodejs.org/)
 
